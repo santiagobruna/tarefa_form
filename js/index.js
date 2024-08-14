@@ -1,8 +1,8 @@
-/**
- * Primeiro iremos capturar os campos numéricos - ok
+/** Algoritmo
+ * Primeiro iremos capturar os campos numéricos 
  * validar se o campo B é maior que A
- * Caso for submeter 
- * Caso não exibir uma mensagem de erro.
+ * Caso for, submeter 
+ * Caso não, exibir uma mensagem de erro.
  * 
 */
 
